@@ -2,21 +2,33 @@ Mitha Soeprapto | Strategic Intelligence & Sovereign Risk Architecture
 
 Volume 1: The 2026/27 Strategic Autonomy & Macro-Fiscal Cycle.
 
-Institutional-grade intelligence for Sovereign Wealth Funds, Tier-1 Financials, and Global Defense Primes.
-🏛️ Institutional Licensing: Volume 1 (12 Briefs)
+Mapping the systemic realignment of sovereign power, energy infrastructure, and algorithmic autonomy.
+🏛️ Institutional Intelligence & Frameworks
 
-Deploying the definitive framework for the current geopolitical realignment.
+The definitive Sovereign Alignment logic for Sovereign Wealth Funds, Tier-1 Financial Institutions, and Global Defense Primes.
 
-    Sovereign Exposure (SES) Modelling: Proprietary cross-sector scoring for G20 and Emerging Markets.
+    Sovereign Exposure (SES) Modelling: Proprietary 5-Factor risk frameworks for G20 and Emerging Markets.
 
-    Algorithmic & Infrastructure Autonomy: Mapping the £10M+ systemic exposure gaps in AI, Energy, and Defense.
+    Infrastructure Autonomy: Closing the systemic exposure gaps in AI, Energy, and Defense.
 
-    Market-Rate Alpha: High-fidelity tracking of capital rotation and "forced-divestment" triggers.
+    Strategic Record: A continuous, lifetime commitment to mapping global fiscal fragmentation.
 
-📂 Volume 1 Contents
+📂 Volume 1: Strategic Briefs
 
-    01-04: Regulatory Architecture (Banking, Defense, AI, Clinical Data).
+A curated collection of 12 high-fidelity assessments, including:
 
-    05-08: Sector Audits (Energy-SOR, Interior Security, Aerospace, Financial Alpha).
+    The Sovereign AI Pivot: Spain’s framework for algorithmic autonomy.
 
-    09-12: Special Assessments (Sovereign AI Pivot, Beyond the Barrel, Spanish-Israeli Decoupling, and more).
+    Beyond the Barrel: Macro-fiscal impacts of the 2026 energy shock.
+
+    The UK-DACH Corridor: Regulatory architecture and "Audit-Trap" mitigation.
+    
+
+✉️ Licensing & Engagement
+
+Commercial licensing, institutional syndication, and private advisory are managed directly.
+
+Email: mithasoeprapto@pm.me
+
+Secure Comms (Telegram): @mithasoe
+    

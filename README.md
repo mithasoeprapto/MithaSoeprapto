@@ -27,7 +27,7 @@ A curated collection of 13 high-fidelity assessments and technical frameworks, i
 ### ⚖️ Institutional Licensing & Procurement
 All intellectual assets and frameworks are available via one-time or annual institutional licenses.
 
-* **Single-Entity License:** £50,000 per Brief
+* **Single-Entity License:** £150,000 per Brief
 * **Technical Annex / Implementation Logic:** £50,000 (Single-Entity)
 * **Master Terms:** [View Commercial Licensing Pack](https://github.com/mithasoeprapto/Commercial-Licensing)
 

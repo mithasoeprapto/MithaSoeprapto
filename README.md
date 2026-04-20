@@ -36,6 +36,6 @@ All intellectual assets and frameworks are available via one-time or annual inst
 ### ✉️ Engagement
 Commercial licensing, institutional syndication, and private advisory are managed directly.
 
-**Email:** mithasoeprapto@pm.me  
+**Email:** mithasoeprapto@pm.me  / mithasoeprapto@outlook.com 
 **Secure Comms (Telegram):** @mithasoe  
 **Subject:** *Licensing Inquiry / Strategic Advisory*

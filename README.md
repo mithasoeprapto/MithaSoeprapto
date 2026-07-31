@@ -1,4 +1,10 @@
-## Hi there 👋
+# Whiskerline Advisory by Mitha Soeprapto | Strategic Intelligence & Sovereign Risk Architecture
+
+Whiskerline Advisory is my independent research and analysis practice, focused on sovereign risk, cross-border regulation, and crisis dynamics without the corporate fog. 
+
+I’m Mitha Soeprapto, and I publish long-form pieces on Substack and shorter dispatches on Instagram.
+
+Day-to-day oversight is handled by my feline management team: Asta, the orange chaos engine, and Kara, the princess.
 
 <!--
 **mithasoeprapto/MithaSoeprapto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

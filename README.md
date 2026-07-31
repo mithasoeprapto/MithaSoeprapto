@@ -5,7 +5,7 @@ Hi, I’m Mitha Soeprapto.
 
 Whiskerline Advisory is my independent research and analysis practice, focused on sovereign risk, cross-border regulation, and crisis dynamics without the corporate fog.
 
-I publish long-form pieces on Substack and shorter dispatches on social media, when required.
+I publish long-form pieces on [Substack](https://substack.com/@mithasoeprapto) and shorter dispatches on social media, when required.
 
 Currently: sovereign risk, regulatory friction, and the quiet management of unnecessary noise — under the supervision of Asta, the orange chaos engine, and Kara, the princess, who remains unimpressed by most developments.
 

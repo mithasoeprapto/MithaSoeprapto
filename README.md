@@ -9,7 +9,7 @@ I publish long-form pieces on [Substack](https://substack.com/@mithasoeprapto) a
 
 Currently: sovereign risk, regulatory friction, and the quiet management of unnecessary noise — under the supervision of Asta, the orange chaos engine, and Kara, the princess, who remains unimpressed by most developments.
 
-
+---
 
 **Institutional Inquiries**  
 Due to the sensitive nature of my sovereign risk modeling and cross-sector analysis, all data access, licensing requests, and institutional inquiries are handled through a structured review process.  

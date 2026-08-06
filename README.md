@@ -12,7 +12,7 @@ Currently: sovereign risk, regulatory friction, and the quiet management of unne
 ---
 
 **Institutional Inquiries**  
-Due to the sensitive nature of my sovereign risk modeling and cross-sector analysis, all data access, licensing requests, and institutional inquiries are handled through a structured review process.  
+Due to the sensitive nature of my sovereign risk modelling and cross-sector analysis, all data access, licensing requests, and institutional inquiries are handled through a structured review process.  
 
 
 To request an institutional license or begin conflict-of-interest verification, please submit your formal brief through the primary intake form.  
@@ -21,7 +21,7 @@ To request an institutional license or begin conflict-of-interest verification, 
 [Initiate secure intake form here](https://tally.so/r/VLXDqa)
 
 
-Primary Desk: [mithasoeprapto@protonmail.com](mailto:mithasoeprapto@protonmail.com)  
+Primary Desk: [whiskerlineadvisory@gmail.com](mailto:whiskerlineadvisory@gmail.com)  
 Secure Backup: [mithasoeprapto@outlook.com](mailto:mithasoeprapto@outlook.com)  
 Encrypted Communications: Telegram @mithasoe  
 

@@ -23,7 +23,7 @@ To request an institutional license or begin conflict-of-interest verification, 
 
 Primary Desk: [whiskerlineadvisory@gmail.com](mailto:whiskerlineadvisory@gmail.com)  
 Secure Backup: [mithasoeprapto@outlook.com](mailto:mithasoeprapto@outlook.com)  
-Encrypted Communications: Telegram @mithasoe  
+Encrypted Communications: Telegram [@mithasoe](https://t.me/@mithasoe)   
 
 
 Please use an official institutional or corporate email address when submitting a brief.

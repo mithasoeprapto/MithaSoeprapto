@@ -1,13 +1,30 @@
 # Whiskerline Advisory by Mitha Soeprapto | Strategic Intelligence & Sovereign Risk Architecture
 
 
-Hi, I’m Mitha Soeprapto.
+Whiskerline Advisory is my independent research and analysis practice, focused on sovereign risk, cross-border regulation, and crisis dynamics—delivered completely clear of the standard corporate fog.
 
-Whiskerline Advisory is my independent research and analysis practice, focused on sovereign risk, cross-border regulation, and crisis dynamics without the corporate fog.
+Hi, I’m Mitha Soeprapto. This practice was established to bypass generic macroeconomic talking points and deliver high-alpha, institutional risk models directly to decision-makers. My analytical foundation spans fifteen years of professional evolution, charting a direct line from rigorous research following my university graduation to specialised independent data engineering. Over the past decade and a half, I have systematically mapped cross-border regulatory shifts, liquidity architecture, and macroeconomic volatility across international markets. Whiskerline is the culmination of that fifteen-year data trajectory—converting complex, sovereign-level anomalies into actionable, hard-coded diagnostic assets.
 
-I publish long-form pieces on [Substack](https://substack.com/@mithasoeprapto) and shorter dispatches on social media, when required.
+I publish long-form structural breakdowns on [Substack](https://substack.com/@mithasoeprapto) and shorter dispatches on social media, when required.
 
-Currently: sovereign risk, regulatory friction, and the quiet management of unnecessary noise — under the supervision of Asta, the orange chaos engine, and Kara, the princess, who remains unimpressed by most developments.
+---
+
+**The Office Cats**
+
+Day-to-day company morale is handled by two very committed team members:
+
+    Kara — self-appointed Head of Standards. Keeps things dignified.
+    Asta — Head of Chaos. Reminds everyone that markets are unpredictable, and so is he.
+
+---
+
+**The Advisory Framework**
+
+Whiskerline’s research sits on three pillars:
+
+    Asset Lineage Tracking — how capital, components, and raw materials route through proxy jurisdictions to navigate shifting tariff structures.
+    Sovereign Friction Modelling — where state security mandates override corporate financial performance.
+    Infrastructure Capture Verification — the physical choke points (ports, rail gauges, power grids) increasingly contested by competing powers.
 
 ---
 

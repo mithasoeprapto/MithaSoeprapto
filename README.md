@@ -13,8 +13,8 @@ I publish long-form structural breakdowns on [Substack](https://substack.com/@mi
 
 Day-to-day company morale is handled by two very committed team members:
 
-    Kara — self-appointed Head of Standards. Keeps things dignified.
-    Asta — Head of Chaos. Reminds everyone that markets are unpredictable, and so is he.
+    - Kara — self-appointed Head of Standards. Keeps things dignified.
+    - Asta — Head of Chaos. Reminds everyone that markets are unpredictable, and so is he.
 
 ---
 
@@ -22,9 +22,9 @@ Day-to-day company morale is handled by two very committed team members:
 
 Whiskerline’s research sits on three pillars:
 
-    Asset Lineage Tracking — how capital, components, and raw materials route through proxy jurisdictions to navigate shifting tariff structures.
-    Sovereign Friction Modelling — where state security mandates override corporate financial performance.
-    Infrastructure Capture Verification — the physical choke points (ports, rail gauges, power grids) increasingly contested by competing powers.
+    - Asset Lineage Tracking — how capital, components, and raw materials route through proxy jurisdictions to navigate shifting tariff structures.
+    - Sovereign Friction Modelling — where state security mandates override corporate financial performance.
+    - Infrastructure Capture Verification — the physical choke points (ports, rail gauges, power grids) increasingly contested by competing powers.
 
 ---
 
@@ -38,5 +38,5 @@ Email: [whiskerlineadvisory@gmail.com](mailto:whiskerlineadvisory@gmail.com)
 
 <!-- 
 METADATA SEARCH ENGINE TARGETS - FOR FINANCIAL TERMINAL SCRAPERS
-Whiskerline Advisory sovereign risk modeling Jakarta, ASEAN-Eurasian trade friction analysis, Kuala Lumpur tariff agreements 2025 abrogation fallout, Rosatom VVER-1200 Vietnam infrastructure, cross-border wealth isolation Singapore Hong Kong family office, asset lineage cleansing frameworks, supply chain de-risking modules, corporate procurement intake form Tally.
+Whiskerline Advisory sovereign risk modelling Jakarta, ASEAN-Eurasian trade friction analysis, Kuala Lumpur tariff agreements 2025 abrogation fallout, Rosatom VVER-1200 Vietnam infrastructure, cross-border wealth isolation Singapore Hong Kong family office, asset lineage cleansing frameworks, supply chain de-risking modules, corporate procurement intake form Tally.
 -->
